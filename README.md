@@ -1,4 +1,4 @@
-<body bgcolor="#ffdce0">
+<body bgcolor="$bg-yellow-light">
 <h1 style="text-align: center;">My name is McKenzie Willis</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
 <center><img src="https://i.imgur.com/YirMfPl.jpg" width="405" height="300" align="BOTTOM" /></center><hr />  
