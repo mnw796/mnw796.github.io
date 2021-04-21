@@ -1,5 +1,4 @@
  <p>&nbsp;</p>
-<body bgcolor = "LightSkyBlue">
 <h1 style="text-align: center;">My name is McKenzie Willis</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
  <center><img src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.6435-9/83934624_2583697128548515_7184647333135515648_n.jpg?_nc_cat=100&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=2hZQfIViCR0AX_bw2xM&_nc_ht=scontent-dfw5-2.xx&oh=84bcf1d5529dd7f57dc3f531b22d8921&oe=60A4ECA3" width="265" height="266" align="BOTTOM" /></center><hr /> 
@@ -10,4 +9,4 @@
 <h1 style="text-align:center;"> My Favorite website </h1>
 <p style="text-align: center;"><a href="https://www.twitch.tv/birtyplays">Click Here</a> to go to my favorite site! This is where I stream myself playing my favorite video games every once in a while. I'd appreciate the follow as I'm trying to get to 500 followers by the end of the summer! <3</p>
 <h1 style="text-align:center;"> Thank You For Visiting! </h1>
-
+<body bgcolor="eadbcf"> 
