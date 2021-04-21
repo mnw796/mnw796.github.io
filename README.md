@@ -9,4 +9,4 @@
 <h1 style="text-align:center;"> My Favorite website </h1>
 <p style="text-align: center;"><a href="https://www.twitch.tv/birtyplays">Click Here</a> to go to my favorite site! This is where I stream myself playing my favorite video games every once in a while. I'd appreciate the follow as I'm trying to get to 500 followers by the end of the summer! <3</p>
 <h1 style="text-align:center;"> Thank You For Visiting! </h1>
- 
+$bg-green-light  
