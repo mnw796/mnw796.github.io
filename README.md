@@ -1,4 +1,4 @@
-# mckenziewillis.github.io
+# mnw796.github.io
 <html>
 <body bgcolor = "LightSkyBlue">
 <h1 style="text-align: center;">My name is McKenzie Willis</h1>
