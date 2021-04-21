@@ -1,4 +1,3 @@
-<p>&nbsp;</p>
 <body bgcolor="Purple">
 <h1 style="text-align: center;">My name is McKenzie Willis</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
